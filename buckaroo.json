@@ -1,0 +1,11 @@
+{
+  "name": "boost-tokenizer",
+  "dependencies": {
+    "boost-assert": "1.63.0",
+    "boost-iterator": "1.63.0",
+    "boost-config": "1.63.0",
+    "boost-detail": "1.63.0",
+    "boost-mpl": "1.63.0",
+    "boost-throw-exception": "1.63.0"
+  }
+}
